@@ -6,15 +6,27 @@
 Get VSCode: https://code.visualstudio.com/download
 
 
-# Install the Roo extension
+# Install an AI agent in VSCode
+
+## RooCode
+
 [Roo Code GitHub](https://github.com/RooCodeInc/Roo-Code).
 
-<img width="681" alt="Screenshot 2025-12-03 at 18 54 33" src="https://github.uio.no/user-attachments/assets/eb714d64-f2d5-4468-bd19-86110b4f215c" />
+<img width="1362" height="858" alt="roocode-extension" src="https://github.com/user-attachments/assets/72ecc72d-1a46-47d8-9774-499de17cc0df" />
+
+## Cline
+
+Alternative to RooCode is Cline.
+
+<img width="780" height="797" alt="cline-in-vscode" src="https://github.com/user-attachments/assets/7f4ad3d2-8f99-4577-ba9b-2442a94d3d99" />
 
 
 # Configure API access to the local models
 
 API access info and setup in Roo in VSCode for the different local models we have running. The available models are now all through gpt.uio.no. 
+
+<img width="491" height="418" alt="roocode-api-config" src="https://github.com/user-attachments/assets/f4cfbb4e-2e75-49dc-bd58-0811f17f6c3a" />
+
 
 ## Models at NTNU through gpt.uio.no
 You get your personal **API key** through the new functionality in gpt.uio.no
