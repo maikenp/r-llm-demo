@@ -50,7 +50,6 @@ Click on the model that you want to use, and you will find the information that 
 Supports either up to yellow or red data: 
 
 - `zai-org/GLM-4.7-FP8` 
-- `moonshotai/Kimi-K2.5` 
 - `moonshotai/Kimi-K2.6` 
 - `mistralai/Mistral-Large-3-675B-Instruct-2512-NVFP4` 
 - `NorwAI/NorwAI-Magistral-24B-reasoning` 
