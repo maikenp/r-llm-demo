@@ -12,20 +12,20 @@ Get VSCode: https://code.visualstudio.com/download
 
 [Roo Code GitHub](https://github.com/RooCodeInc/Roo-Code).
 
-<img width="1362" height="858" alt="roocode-extension" src="https://github.com/user-attachments/assets/72ecc72d-1a46-47d8-9774-499de17cc0df" />
+<img width="500"  alt="roocode-extension" src="https://github.com/user-attachments/assets/72ecc72d-1a46-47d8-9774-499de17cc0df" />
 
 ## Cline
 
 Alternative to RooCode is Cline.
 
-<img width="780" height="797" alt="cline-in-vscode" src="https://github.com/user-attachments/assets/7f4ad3d2-8f99-4577-ba9b-2442a94d3d99" />
+<img width="500"  alt="cline-in-vscode" src="https://github.com/user-attachments/assets/7f4ad3d2-8f99-4577-ba9b-2442a94d3d99" />
 
 
 # Configure API access to the local models
 
 API access info and setup in Roo in VSCode for the different local models we have running. The available models are now all through gpt.uio.no. 
 
-<img width="491" height="418" alt="roocode-api-config" src="https://github.com/user-attachments/assets/f4cfbb4e-2e75-49dc-bd58-0811f17f6c3a" />
+<img width="500" height="418" alt="roocode-api-config" src="https://github.com/user-attachments/assets/f4cfbb4e-2e75-49dc-bd58-0811f17f6c3a" />
 
 
 ## Models at NTNU through gpt.uio.no
@@ -40,7 +40,7 @@ There are two types of keys, one for models supporting red data and one for mode
 
 Click on the model that you want to use, and you will find the information that you need to connect your application with the model via API, which will be minimally the base-url and the model name. 
 
-<img width="642" height="939" alt="model-api-info" src="https://github.com/user-attachments/assets/a6629147-d667-400c-94f0-7f4893923b3c" />
+<img width="500" alt="model-api-info" src="https://github.com/user-attachments/assets/a6629147-d667-400c-94f0-7f4893923b3c" />
 
 
 ### Base URL
