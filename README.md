@@ -27,8 +27,6 @@ Alternative to RooCode is Cline.
 
 API access info and setup in Roo in VSCode for the different local models we have running. The available models are now all through gpt.uio.no. 
 
-<img width="500" height="418" alt="roocode-api-config" src="https://github.com/user-attachments/assets/f4cfbb4e-2e75-49dc-bd58-0811f17f6c3a" />
-
 
 ## Models at NTNU through gpt.uio.no
 You get your personal **API key** through the new functionality in gpt.uio.no
@@ -67,6 +65,10 @@ Support up to yellow data:
 - `gpt-5`
 - `gpt-5-mini`
 - `gpt-5.1`
+
+## Example configuration for Roocode
+
+<img width="500" height="418" alt="roocode-api-config" src="https://github.com/user-attachments/assets/f4cfbb4e-2e75-49dc-bd58-0811f17f6c3a" />
 
 
 ## Check that your API key is working
