@@ -1,6 +1,6 @@
 # R + LLM demo
 
-
+Instructions how to use VSCode to connect an AI agent with a LLM via API.
 
 # VSCode 
 Get VSCode: https://code.visualstudio.com/download
@@ -17,6 +17,8 @@ Get VSCode: https://code.visualstudio.com/download
 ## Cline
 
 Alternative to RooCode is Cline.
+
+[Cline Open Coding Agent](https://cline.bot/)
 
 <img width="500"  alt="cline-in-vscode" src="https://github.com/user-attachments/assets/7f4ad3d2-8f99-4577-ba9b-2442a94d3d99" />
 
