@@ -38,7 +38,7 @@ You get your personal **API key** through the new functionality in gpt.uio.no
 
 There are two types of keys, one for models supporting red data and one for models supporting up to yellow data.
 
-Click on the model that you want to use, and you will find the information that you need to connect your application with the model via API, which will be minimally the base-url and the model name. 
+Click on the model that you want to use, and you will find the information that you need to connect your application with the model via API, which will be minimally the API-key itself, base-url and the model name. 
 
 <img width="500" alt="model-api-info" src="https://github.com/user-attachments/assets/a6629147-d667-400c-94f0-7f4893923b3c" />
 
