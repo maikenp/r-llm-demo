@@ -72,9 +72,9 @@ Support up to yellow data:
 
 ## Check that your API key is working
 
-First generate a token at gpt.uio.no if you don't have one already. Copy it to your clipboard. Then in a terminal do:
+First generate an API key at gpt.uio.no if you don't have one already. Copy it to your clipboard. Then in a terminal do:
 
 ```
-export GPT_TOKEN=<paste-in-your-token>
-curl -H "authorization: Bearer ${GPT_TOKEN}" https://gpt.uio.no/api/v1/models
+export GPT_API_KEY=<paste-in-your-api-key>
+curl -H "authorization: Bearer ${GPT_API_KEY}" https://gpt.uio.no/api/v1/models
 ```
